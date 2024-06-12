@@ -1805,7 +1805,7 @@ dependencies = [
 [[package]]
 name = "serum_dex"
 version = "0.5.10"
-source = "git+https://github.com/raydium-io/openbook-dex#cff113afcec5bcf3c7aaace42d03b5d138d4328e"
+source = "git+https://github.com/weirdgiraffe/openbook-dex#dbe0037fa118502c13d36f6221c5dd58039a075a"
 dependencies = [
  "anchor-lang",
  "arrayref",
